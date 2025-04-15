@@ -1,5 +1,7 @@
 # Legal Assistant Project
 
+This is a chatbot that helps with Ugandan laws 
+
 ## Overview
 The Legal Assistant project is a web application designed to analyze legal documents and provide structured insights. It utilizes TypeScript for the backend logic and includes a frontend interface for user interaction.
 
@@ -34,7 +36,7 @@ legal-assistant
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/legal-assistant.git
+   git clone https://github.com/MuriisaJohn/legalAI.git
    ```
 2. Navigate to the project directory:
    ```
